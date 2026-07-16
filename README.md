@@ -1,4 +1,12 @@
-http://localhost:8000
+http://localhost:8000 
+
+<br>
+OUTPUTS:
+         <img src="interpolation_output_1d.png" width="600" height="600"> <br>
+         <img src="interpolation_output_2d.png" width="600" height="600"> <br>
+         <img src="viz_output.png" width="600" height="600"> <br>
+     
+   
 
 # RBFN Project
 
@@ -26,4 +34,5 @@ cd /home/jni/Documents/RBFN
 .venv/bin/python mainDEAP.py
 .venv/bin/python viz.py
 ```
+
 
