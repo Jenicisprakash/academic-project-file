@@ -1,6 +1,6 @@
-http://localhost:8000 
 
-<br>
+
+
 OUTPUTS:
          <img src="interpolation_output_1d.png" width="600" height="600"> <br>
          <img src="interpolation_output_2d.png" width="600" height="600"> <br>
@@ -20,7 +20,9 @@ This repository contains Radial Basis Function Network code in Python, along wit
 - `mainDEAP.py` — evolutionary optimization with DEAP and RBFN-based evaluation
 - `viz.py` — classification decision-boundary visualizations using SVMs
 - `RBF.py` / `RBF1.py` — RBF network implementations
-- `docs/` — static web front-end for GitHub Pages
+
+- http://localhost:8000 
+
 
 ## Run locally
 
